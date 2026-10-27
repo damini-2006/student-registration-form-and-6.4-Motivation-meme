@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../college website"
+		},
+		{
+			"path": "../css"
+		},
+		{
+			"path": "../student registration form"
+		},
+		{
+			"path": "../Tables and Forms"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "student registration form"
+	}
+}
